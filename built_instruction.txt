@@ -1,0 +1,5 @@
+Compile:
+g++ src/*.cpp -o search_engine
+
+Run:
+./search_engine

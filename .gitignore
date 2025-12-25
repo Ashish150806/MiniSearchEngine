@@ -1,0 +1,14 @@
+# Dataset
+data/20_newsgroups/
+
+# Compiled binaries
+*.exe
+*.out
+*.o
+
+# IDE configs
+.vscode/
+.idea/
+
+# OS junk
+.DS_Store
